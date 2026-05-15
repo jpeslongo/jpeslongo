@@ -33,7 +33,7 @@ Análise de campanhas, funil, comportamento de consumo e resultados de marketing
 
 ### Estruturação e Interpretação de Informações
 
-Uso de Excel para organizar, tratar e cruzar informações, transformando bases e dados dispersos em leituras mais claras, indicadores e análises que ajudam na tomada de decisão.
+Utilizo Excel para organizar, tratar e cruzar informações, transformando bases e dados dispersos em leituras mais claras, indicadores e análises que ajudam na tomada de decisão.
 
 ### Análise de Dados
 
@@ -45,7 +45,7 @@ Criação e manutenção de dashboards em Power BI, com KPIs, modelagem de dados
 
 ### Programação e Banco de Dados
 
-Uso de SQL para consultas, filtros, joins e agregações em bases de dados. Conhecimento básico em Python como apoio para análises, tratamento de dados e automações simples.
+Utilizo SQL para consultas, filtros, joins e agregações em bases de dados. Conhecimento básico em Python como apoio para análises, tratamento de dados e automações simples.
 
 ---
 
