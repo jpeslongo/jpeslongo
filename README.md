@@ -1,4 +1,4 @@
-<h1 align="left">João Pedro Longo 📊</h1>
+<h1 align="left">João Pedro Slongo 📊</h1>
 
 <h3 align="left">Data Analytics | Business Intelligence | Marketing Analytics</h3>
 
@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python%20B%C3%A1sico-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
